@@ -5,7 +5,7 @@ client side machine learning
 we will use VGG16 and mobilenet for comparison
 
 
-##initialize
+## initialize
 
 to install dependencies:
 
